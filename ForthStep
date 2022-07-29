@@ -1,0 +1,13 @@
+After configuring token, when you generate it, copy it in secure folder, 
+because you will need to use it instead of password. 
+
+When you want to push changes, you will need:
+
+1. E-mail address - email you use it to register on GitHub profile in 
+   our case that is example@gmail.com
+
+2. Password -> this is now your generated token which is connected with 
+   our GitHub profile
+
+After this you will be possible to upload changes on your GitHub profile. 
+
