@@ -1,0 +1,31 @@
+ 
+Follow tutorial on link: 
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+
+On this link you have eveything to understand how to install git on your local
+computer. 
+
+
+THIS IS MUST. You need to register on GitHub and setup Git locally, so you 
+can use commands and collaborate with you own remote repository. 
+
+********************************************************************************
+
+BASIC TO UNDERSTAND
+
+REPOSITORY is just "folder" which is remote on GitHub account and user 
+can create repo ("folder"), delete , update, pull (take a copy of folder from 
+GitHub account and have it at local computer).
+
+GIT: 
+Local Git repository --> On your own computer you have repository( usually 
+copied (cloned) files from your or others GitHub accounts). Repository on GitHub
+account can be public or private. 
+
+Central Git repository (on GitHub account) - "folder" which is online on your account
+on GitHub page.  
+
+
+GitHub --> online website for storing your code. Other online website are Bitbucket,GitLab..
+
