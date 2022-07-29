@@ -1,0 +1,24 @@
+
+After configuring global user or configuring user per project 
+(https://linuxize.com/post/how-to-configure-git-username-and-email/), 
+third step is to generate SSH to configure GitHub account with user computer
+ (local computer), before this step you should already have created GitHub account. 
+
+How to generate SSH key on your local computer: 
+https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key#_generate_ssh_key
+
+After this step, you need to copy SSH key in GitHub account. 
+
+Your Email Addresses
+The way that GitHub maps your Git commits to your user is by email address. If you use
+multiple email addresses in your commits and you want GitHub to link them up properly,
+you need to add all the email addresses you have used to the Emails section of the admin section.
+
+CREATING TOKEN for GitHub account
+
+Before token, user needed to have password to upload files on remote GitHub account, 
+but after August 2021, user need to create token. When you want to push changes on your GitHub accoount
+you need to authenticate with token. On this link you will find how to do this: 
+https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+
+
