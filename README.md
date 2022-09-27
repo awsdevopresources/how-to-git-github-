@@ -1,6 +1,6 @@
-#How to use Git - interactive page 
+# How to use Git - interactive page 
 
-![Website] (https://learngitbranching.js.org/)
+![Web_site](https://learngitbranching.js.org/)
 
 # How to git-GitHub
 
